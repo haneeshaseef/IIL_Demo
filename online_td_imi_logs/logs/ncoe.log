@@ -1,0 +1,1134 @@
+[2024-02-19T09:43:40.040Z] My process Eligibity Method called null
+[2024-02-19T09:43:40.040Z] Our EligibilityDao processEligibility Method Called...
+[2024-02-19T09:43:40.040Z] Try to Create Database Connection
+[2024-02-19T09:43:40.040Z] Sequence added Sucessfully
+[2024-02-19T09:43:40.040Z] Create Database Connection Successful
+[2024-02-19T09:43:40.040Z] Found 49 Courses
+[2024-02-19T09:43:40.040Z] Course (1) - Primary Education (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:43:40.040Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:40.040Z] Try to Create Database Connection
+[2024-02-19T09:43:40.040Z] Create Database Connection Successful
+[2024-02-19T09:43:40.040Z] Applicant No : A004004 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 6 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:43:40.040Z] Applicanted added to database
+[2024-02-19T09:43:40.040Z] All Applicants loaed Sucessfully for(1) - Primary Education (Sinhala)
+[2024-02-19T09:43:40.040Z] Course (10) - Social Science (Tamil) Selected for Eligibility Check
+[2024-02-19T09:43:40.040Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:40.040Z] Try to Create Database Connection
+[2024-02-19T09:43:40.040Z] Create Database Connection Successful
+[2024-02-19T09:43:40.040Z] Applicant No : A004005 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 7 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:43:40.040Z] Applicanted added to database
+[2024-02-19T09:43:40.040Z] All Applicants loaed Sucessfully for(10) - Social Science (Tamil)
+[2024-02-19T09:43:40.040Z] Course (11) - Buddhism Selected for Eligibility Check
+[2024-02-19T09:43:40.040Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:40.040Z] Try to Create Database Connection
+[2024-02-19T09:43:40.040Z] Create Database Connection Successful
+[2024-02-19T09:43:40.040Z] All Applicants loaed Sucessfully for(11) - Buddhism
+[2024-02-19T09:43:40.040Z] Course (12) - Hinduism Selected for Eligibility Check
+[2024-02-19T09:43:40.040Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:40.040Z] Try to Create Database Connection
+[2024-02-19T09:43:40.040Z] Create Database Connection Successful
+[2024-02-19T09:43:40.040Z] All Applicants loaed Sucessfully for(12) - Hinduism
+[2024-02-19T09:43:40.040Z] Course (13) - Islam Selected for Eligibility Check
+[2024-02-19T09:43:40.040Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:40.040Z] Try to Create Database Connection
+[2024-02-19T09:43:40.040Z] Create Database Connection Successful
+[2024-02-19T09:43:40.040Z] All Applicants loaed Sucessfully for(13) - Islam
+[2024-02-19T09:43:40.040Z] Course (14) - Catholicism / Christianity (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:43:40.040Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:40.040Z] Try to Create Database Connection
+[2024-02-19T09:43:40.040Z] Create Database Connection Successful
+[2024-02-19T09:43:40.040Z] Applicant No : A002004 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 22Applicant Sequence: 1 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:43:40.040Z] Applicanted added to database
+[2024-02-19T09:43:40.040Z] Applicant No : A002005 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 2 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:43:40.040Z] Applicanted added to database
+[2024-02-19T09:43:40.040Z] Applicant No : A003001 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 3 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:43:40.040Z] Applicanted added to database
+[2024-02-19T09:43:40.040Z] Applicant No : A004001 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 4 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:43:40.040Z] Applicanted added to database
+[2024-02-19T09:43:40.040Z] All Applicants loaed Sucessfully for(14) - Catholicism / Christianity (Sinhala)
+[2024-02-19T09:43:40.040Z] Course (15) - Catholicism / Christianity (Tamil) Selected for Eligibility Check
+[2024-02-19T09:43:40.040Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:40.040Z] Try to Create Database Connection
+[2024-02-19T09:43:40.040Z] Create Database Connection Successful
+[2024-02-19T09:43:40.040Z] All Applicants loaed Sucessfully for(15) - Catholicism / Christianity (Tamil)
+[2024-02-19T09:43:40.040Z] Course (16) - First Language (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:43:40.040Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:40.040Z] Try to Create Database Connection
+[2024-02-19T09:43:40.040Z] Create Database Connection Successful
+[2024-02-19T09:43:40.040Z] All Applicants loaed Sucessfully for(16) - First Language (Sinhala)
+[2024-02-19T09:43:40.040Z] Course (17) - First Language (Tamil) Selected for Eligibility Check
+[2024-02-19T09:43:40.040Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:40.040Z] Try to Create Database Connection
+[2024-02-19T09:43:40.040Z] Create Database Connection Successful
+[2024-02-19T09:43:40.040Z] All Applicants loaed Sucessfully for(17) - First Language (Tamil)
+[2024-02-19T09:43:40.040Z] Course (18) - English Selected for Eligibility Check
+[2024-02-19T09:43:40.040Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:40.040Z] Try to Create Database Connection
+[2024-02-19T09:43:40.040Z] Create Database Connection Successful
+[2024-02-19T09:43:40.040Z] Applicant No : A003001 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 3 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:43:40.040Z] Applicanted added to database
+[2024-02-19T09:43:40.040Z] Applicant No : A004003 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 5 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:43:40.040Z] Applicanted added to database
+[2024-02-19T09:43:40.040Z] Applicant No : A004004 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 6 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:43:40.040Z] Applicanted added to database
+[2024-02-19T09:43:40.040Z] Applicant No : A004005 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 7 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:43:40.040Z] Applicanted added to database
+[2024-02-19T09:43:40.040Z] All Applicants loaed Sucessfully for(18) - English
+[2024-02-19T09:43:40.040Z] Course (19) - Art (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:43:40.040Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:40.040Z] Try to Create Database Connection
+[2024-02-19T09:43:40.040Z] Create Database Connection Successful
+[2024-02-19T09:43:40.040Z] All Applicants loaed Sucessfully for(19) - Art (Sinhala)
+[2024-02-19T09:43:40.040Z] Course (2) - Primary Education (Tamil)  Selected for Eligibility Check
+[2024-02-19T09:43:40.040Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:40.040Z] Try to Create Database Connection
+[2024-02-19T09:43:40.040Z] Create Database Connection Successful
+[2024-02-19T09:43:40.040Z] Applicant No : A004003 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 5 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:43:40.040Z] Applicanted added to database
+[2024-02-19T09:43:40.040Z] Applicant No : A004005 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 7 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:43:40.040Z] Applicanted added to database
+[2024-02-19T09:43:40.040Z] All Applicants loaed Sucessfully for(2) - Primary Education (Tamil) 
+[2024-02-19T09:43:40.040Z] Course (20)- Art (Tamil) Selected for Eligibility Check
+[2024-02-19T09:43:40.040Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:40.040Z] Try to Create Database Connection
+[2024-02-19T09:43:40.040Z] Create Database Connection Successful
+[2024-02-19T09:43:40.040Z] All Applicants loaed Sucessfully for(20)- Art (Tamil)
+[2024-02-19T09:43:40.040Z] Course (21) - Dance (Oriental) Selected for Eligibility Check
+[2024-02-19T09:43:40.040Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:40.040Z] Try to Create Database Connection
+[2024-02-19T09:43:40.040Z] Create Database Connection Successful
+[2024-02-19T09:43:40.040Z] All Applicants loaed Sucessfully for(21) - Dance (Oriental)
+[2024-02-19T09:43:40.040Z] Course (22) - Dance ( Bharatha) Selected for Eligibility Check
+[2024-02-19T09:43:40.040Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:40.040Z] Try to Create Database Connection
+[2024-02-19T09:43:40.040Z] Create Database Connection Successful
+[2024-02-19T09:43:40.040Z] All Applicants loaed Sucessfully for(22) - Dance ( Bharatha)
+[2024-02-19T09:43:40.040Z] Course (23) - Music (Oriental) Selected for Eligibility Check
+[2024-02-19T09:43:40.040Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:40.040Z] Try to Create Database Connection
+[2024-02-19T09:43:40.040Z] Create Database Connection Successful
+[2024-02-19T09:43:40.040Z] All Applicants loaed Sucessfully for(23) - Music (Oriental)
+[2024-02-19T09:43:40.040Z] Course (24) - Music ( Carnatic) Selected for Eligibility Check
+[2024-02-19T09:43:40.040Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:40.040Z] Try to Create Database Connection
+[2024-02-19T09:43:40.040Z] Create Database Connection Successful
+[2024-02-19T09:43:40.040Z] All Applicants loaed Sucessfully for(24) - Music ( Carnatic)
+[2024-02-19T09:43:40.040Z] Course (25) - Western Music Selected for Eligibility Check
+[2024-02-19T09:43:40.040Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:40.040Z] Try to Create Database Connection
+[2024-02-19T09:43:40.040Z] Create Database Connection Successful
+[2024-02-19T09:43:40.040Z] Applicant No : A004001 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 4 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:43:40.040Z] Applicanted added to database
+[2024-02-19T09:43:40.040Z] Applicant No : A004004 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 6 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:43:40.040Z] Applicanted added to database
+[2024-02-19T09:43:40.040Z] All Applicants loaed Sucessfully for(25) - Western Music
+[2024-02-19T09:43:40.040Z] Course (26) - Drama and Theatre (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:43:40.040Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:40.040Z] Try to Create Database Connection
+[2024-02-19T09:43:40.040Z] Create Database Connection Successful
+[2024-02-19T09:43:40.040Z] All Applicants loaed Sucessfully for(26) - Drama and Theatre (Sinhala)
+[2024-02-19T09:43:40.040Z] Course (27) - Drama and Theatre (Tamil) Selected for Eligibility Check
+[2024-02-19T09:43:40.040Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:40.040Z] Try to Create Database Connection
+[2024-02-19T09:43:40.040Z] Create Database Connection Successful
+[2024-02-19T09:43:40.040Z] All Applicants loaed Sucessfully for(27) - Drama and Theatre (Tamil)
+[2024-02-19T09:43:40.040Z] Course (28) - Health and Physical Education (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:43:40.040Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:40.040Z] Try to Create Database Connection
+[2024-02-19T09:43:40.040Z] Create Database Connection Successful
+[2024-02-19T09:43:40.040Z] Applicant No : A002004 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 22Applicant Sequence: 1 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:43:40.040Z] Applicanted added to database
+[2024-02-19T09:43:40.040Z] Applicant No : A002005 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 2 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:43:40.040Z] Applicanted added to database
+[2024-02-19T09:43:40.040Z] Applicant No : A004001 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 4 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:43:40.040Z] Applicanted added to database
+[2024-02-19T09:43:40.040Z] All Applicants loaed Sucessfully for(28) - Health and Physical Education (Sinhala)
+[2024-02-19T09:43:40.040Z] Course (29)- Health and Physical Education (Tamil) Selected for Eligibility Check
+[2024-02-19T09:43:40.040Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:40.040Z] Try to Create Database Connection
+[2024-02-19T09:43:40.040Z] Create Database Connection Successful
+[2024-02-19T09:43:40.040Z] Applicant No : A003001 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 3 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:43:40.040Z] Applicanted added to database
+[2024-02-19T09:43:40.040Z] Applicant No : A004003 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 5 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:43:40.040Z] Applicanted added to database
+[2024-02-19T09:43:40.040Z] All Applicants loaed Sucessfully for(29)- Health and Physical Education (Tamil)
+[2024-02-19T09:43:40.040Z] Course (3) - Science (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:43:40.040Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:40.040Z] Try to Create Database Connection
+[2024-02-19T09:43:40.040Z] Create Database Connection Successful
+[2024-02-19T09:43:40.040Z] All Applicants loaed Sucessfully for(3) - Science (Sinhala)
+[2024-02-19T09:43:40.040Z] Course (30) - Health and Physical Education (English) Selected for Eligibility Check
+[2024-02-19T09:43:40.040Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:40.040Z] Try to Create Database Connection
+[2024-02-19T09:43:40.040Z] Create Database Connection Successful
+[2024-02-19T09:43:40.040Z] All Applicants loaed Sucessfully for(30) - Health and Physical Education (English)
+[2024-02-19T09:43:40.040Z] Course (31) - Home Economics (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:43:40.040Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:40.040Z] Try to Create Database Connection
+[2024-02-19T09:43:40.040Z] Create Database Connection Successful
+[2024-02-19T09:43:40.040Z] All Applicants loaed Sucessfully for(31) - Home Economics (Sinhala)
+[2024-02-19T09:43:40.040Z] Course (32) - Home Economics (Tamil) Selected for Eligibility Check
+[2024-02-19T09:43:40.040Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:40.040Z] Try to Create Database Connection
+[2024-02-19T09:43:40.040Z] Create Database Connection Successful
+[2024-02-19T09:43:40.040Z] All Applicants loaed Sucessfully for(32) - Home Economics (Tamil)
+[2024-02-19T09:43:40.040Z] Course (33) - Agriculture and Food Technology (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:43:40.040Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:40.040Z] Try to Create Database Connection
+[2024-02-19T09:43:40.040Z] Create Database Connection Successful
+[2024-02-19T09:43:40.040Z] All Applicants loaed Sucessfully for(33) - Agriculture and Food Technology (Sinhala)
+[2024-02-19T09:43:40.040Z] Course (34) - Agriculture and Food Technology (Tamil) Selected for Eligibility Check
+[2024-02-19T09:43:40.040Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:40.040Z] Try to Create Database Connection
+[2024-02-19T09:43:40.040Z] Create Database Connection Successful
+[2024-02-19T09:43:40.040Z] All Applicants loaed Sucessfully for(34) - Agriculture and Food Technology (Tamil)
+[2024-02-19T09:43:40.040Z] Course (35) - Art and craft (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:43:40.040Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:40.040Z] Try to Create Database Connection
+[2024-02-19T09:43:40.040Z] Create Database Connection Successful
+[2024-02-19T09:43:40.040Z] All Applicants loaed Sucessfully for(35) - Art and craft (Sinhala)
+[2024-02-19T09:43:40.040Z] Course (36) - Art and craft (Tamil) Selected for Eligibility Check
+[2024-02-19T09:43:40.040Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:40.040Z] Try to Create Database Connection
+[2024-02-19T09:43:40.040Z] Create Database Connection Successful
+[2024-02-19T09:43:40.040Z] Applicant No : A002004 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 22Applicant Sequence: 1 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:43:40.040Z] Applicanted added to database
+[2024-02-19T09:43:40.040Z] Applicant No : A002005 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 2 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:43:40.040Z] Applicanted added to database
+[2024-02-19T09:43:40.040Z] All Applicants loaed Sucessfully for(36) - Art and craft (Tamil)
+[2024-02-19T09:43:40.040Z] Course (37) - Design and Construction Technology (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:43:40.040Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:40.040Z] Try to Create Database Connection
+[2024-02-19T09:43:40.040Z] Create Database Connection Successful
+[2024-02-19T09:43:40.040Z] All Applicants loaed Sucessfully for(37) - Design and Construction Technology (Sinhala)
+[2024-02-19T09:43:40.040Z] Course (38) - Design and Mechanical Technology (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:43:40.040Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:40.040Z] Try to Create Database Connection
+[2024-02-19T09:43:40.040Z] Create Database Connection Successful
+[2024-02-19T09:43:41.041Z] All Applicants loaed Sucessfully for(38) - Design and Mechanical Technology (Sinhala)
+[2024-02-19T09:43:41.041Z] Course (39) - Design and Electrical and Electronic Technology (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:43:41.041Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:41.041Z] Try to Create Database Connection
+[2024-02-19T09:43:41.041Z] Create Database Connection Successful
+[2024-02-19T09:43:41.041Z] All Applicants loaed Sucessfully for(39) - Design and Electrical and Electronic Technology (Sinhala)
+[2024-02-19T09:43:41.041Z] Course (4) - Science (Tamil) Selected for Eligibility Check
+[2024-02-19T09:43:41.041Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:41.041Z] Try to Create Database Connection
+[2024-02-19T09:43:41.041Z] Create Database Connection Successful
+[2024-02-19T09:43:41.041Z] All Applicants loaed Sucessfully for(4) - Science (Tamil)
+[2024-02-19T09:43:41.041Z] Course (40) - Design and Construction Technology (Tamil) Selected for Eligibility Check
+[2024-02-19T09:43:41.041Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:41.041Z] Try to Create Database Connection
+[2024-02-19T09:43:41.041Z] Create Database Connection Successful
+[2024-02-19T09:43:41.041Z] All Applicants loaed Sucessfully for(40) - Design and Construction Technology (Tamil)
+[2024-02-19T09:43:41.041Z] Course (41) - Design and Mechanical Technology (Tamil) Selected for Eligibility Check
+[2024-02-19T09:43:41.041Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:41.041Z] Try to Create Database Connection
+[2024-02-19T09:43:41.041Z] Create Database Connection Successful
+[2024-02-19T09:43:41.041Z] All Applicants loaed Sucessfully for(41) - Design and Mechanical Technology (Tamil)
+[2024-02-19T09:43:41.041Z] Course (42) - Design and Electrical and Electronic Technology (Tamil) Selected for Eligibility Check
+[2024-02-19T09:43:41.041Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:41.041Z] Try to Create Database Connection
+[2024-02-19T09:43:41.041Z] Create Database Connection Successful
+[2024-02-19T09:43:41.041Z] All Applicants loaed Sucessfully for(42) - Design and Electrical and Electronic Technology (Tamil)
+[2024-02-19T09:43:41.041Z] Course (43) -Information and Communication Technology (English)  Selected for Eligibility Check
+[2024-02-19T09:43:41.041Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:41.041Z] Try to Create Database Connection
+[2024-02-19T09:43:41.041Z] Create Database Connection Successful
+[2024-02-19T09:43:41.041Z] All Applicants loaed Sucessfully for(43) -Information and Communication Technology (English) 
+[2024-02-19T09:43:41.041Z] Course (44) - Second Language (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:43:41.041Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:41.041Z] Try to Create Database Connection
+[2024-02-19T09:43:41.041Z] Create Database Connection Successful
+[2024-02-19T09:43:41.041Z] All Applicants loaed Sucessfully for(44) - Second Language (Sinhala)
+[2024-02-19T09:43:41.041Z] Course (45) - Second Language (Tamil) Selected for Eligibility Check
+[2024-02-19T09:43:41.041Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:41.041Z] Try to Create Database Connection
+[2024-02-19T09:43:41.041Z] Create Database Connection Successful
+[2024-02-19T09:43:41.041Z] All Applicants loaed Sucessfully for(45) - Second Language (Tamil)
+[2024-02-19T09:43:41.041Z] Course (46) - Special Education (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:43:41.041Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:41.041Z] Try to Create Database Connection
+[2024-02-19T09:43:41.041Z] Create Database Connection Successful
+[2024-02-19T09:43:41.041Z] All Applicants loaed Sucessfully for(46) - Special Education (Sinhala)
+[2024-02-19T09:43:41.041Z] Course (47) - Special Education (Tamil) Selected for Eligibility Check
+[2024-02-19T09:43:41.041Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:41.041Z] Try to Create Database Connection
+[2024-02-19T09:43:41.041Z] Create Database Connection Successful
+[2024-02-19T09:43:41.041Z] All Applicants loaed Sucessfully for(47) - Special Education (Tamil)
+[2024-02-19T09:43:41.041Z] Course (48) - Business and Accounting Studies (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:43:41.041Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:41.041Z] Try to Create Database Connection
+[2024-02-19T09:43:41.041Z] Create Database Connection Successful
+[2024-02-19T09:43:41.041Z] All Applicants loaed Sucessfully for(48) - Business and Accounting Studies (Sinhala)
+[2024-02-19T09:43:41.041Z] Course (49) - Business and Accounting Studies (Tamil) Selected for Eligibility Check
+[2024-02-19T09:43:41.041Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:41.041Z] Try to Create Database Connection
+[2024-02-19T09:43:41.041Z] Create Database Connection Successful
+[2024-02-19T09:43:41.041Z] All Applicants loaed Sucessfully for(49) - Business and Accounting Studies (Tamil)
+[2024-02-19T09:43:41.041Z] Course (5) - Science (English) Selected for Eligibility Check
+[2024-02-19T09:43:41.041Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:41.041Z] Try to Create Database Connection
+[2024-02-19T09:43:41.041Z] Create Database Connection Successful
+[2024-02-19T09:43:41.041Z] All Applicants loaed Sucessfully for(5) - Science (English)
+[2024-02-19T09:43:41.041Z] Course (6) - Mathematics (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:43:41.041Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:41.041Z] Try to Create Database Connection
+[2024-02-19T09:43:41.041Z] Create Database Connection Successful
+[2024-02-19T09:43:41.041Z] All Applicants loaed Sucessfully for(6) - Mathematics (Sinhala)
+[2024-02-19T09:43:41.041Z] Course (7) - Mathematics (Tamil) Selected for Eligibility Check
+[2024-02-19T09:43:41.041Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:41.041Z] Try to Create Database Connection
+[2024-02-19T09:43:41.041Z] Create Database Connection Successful
+[2024-02-19T09:43:41.041Z] All Applicants loaed Sucessfully for(7) - Mathematics (Tamil)
+[2024-02-19T09:43:41.041Z] Course (8) - Mathematics (English) Selected for Eligibility Check
+[2024-02-19T09:43:41.041Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:41.041Z] Try to Create Database Connection
+[2024-02-19T09:43:41.041Z] Create Database Connection Successful
+[2024-02-19T09:43:41.041Z] All Applicants loaed Sucessfully for(8) - Mathematics (English)
+[2024-02-19T09:43:41.041Z] Course (9) - Social Science (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:43:41.041Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:43:41.041Z] Try to Create Database Connection
+[2024-02-19T09:43:41.041Z] Create Database Connection Successful
+[2024-02-19T09:43:41.041Z] All Applicants loaed Sucessfully for(9) - Social Science (Sinhala)
+[2024-02-19T09:43:41.041Z] Prcoess Eligibility Method called sucessfully
+[2024-02-19T09:47:06.006Z] My process Eligibity Method called null
+[2024-02-19T09:47:06.006Z] Our EligibilityDao processEligibility Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Sequence added Sucessfully
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] Found 49 Courses
+[2024-02-19T09:47:06.006Z] Course (1) - Primary Education (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] Applicant No : A004004 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 6 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:47:06.006Z] Applicanted added to database
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(1) - Primary Education (Sinhala)
+[2024-02-19T09:47:06.006Z] Course (10) - Social Science (Tamil) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] Applicant No : A004005 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 7 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:47:06.006Z] Applicanted added to database
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(10) - Social Science (Tamil)
+[2024-02-19T09:47:06.006Z] Course (11) - Buddhism Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(11) - Buddhism
+[2024-02-19T09:47:06.006Z] Course (12) - Hinduism Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(12) - Hinduism
+[2024-02-19T09:47:06.006Z] Course (13) - Islam Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(13) - Islam
+[2024-02-19T09:47:06.006Z] Course (14) - Catholicism / Christianity (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] Applicant No : A002004 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 22Applicant Sequence: 1 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:47:06.006Z] Applicanted added to database
+[2024-02-19T09:47:06.006Z] Applicant No : A002005 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 2 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:47:06.006Z] Applicanted added to database
+[2024-02-19T09:47:06.006Z] Applicant No : A003001 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 3 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:47:06.006Z] Applicanted added to database
+[2024-02-19T09:47:06.006Z] Applicant No : A004001 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 4 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:47:06.006Z] Applicanted added to database
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(14) - Catholicism / Christianity (Sinhala)
+[2024-02-19T09:47:06.006Z] Course (15) - Catholicism / Christianity (Tamil) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(15) - Catholicism / Christianity (Tamil)
+[2024-02-19T09:47:06.006Z] Course (16) - First Language (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(16) - First Language (Sinhala)
+[2024-02-19T09:47:06.006Z] Course (17) - First Language (Tamil) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(17) - First Language (Tamil)
+[2024-02-19T09:47:06.006Z] Course (18) - English Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] Applicant No : A003001 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 3 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:47:06.006Z] Applicanted added to database
+[2024-02-19T09:47:06.006Z] Applicant No : A004003 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 5 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:47:06.006Z] Applicanted added to database
+[2024-02-19T09:47:06.006Z] Applicant No : A004004 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 6 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:47:06.006Z] Applicanted added to database
+[2024-02-19T09:47:06.006Z] Applicant No : A004005 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 7 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:47:06.006Z] Applicanted added to database
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(18) - English
+[2024-02-19T09:47:06.006Z] Course (19) - Art (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(19) - Art (Sinhala)
+[2024-02-19T09:47:06.006Z] Course (2) - Primary Education (Tamil)  Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] Applicant No : A004003 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 5 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:47:06.006Z] Applicanted added to database
+[2024-02-19T09:47:06.006Z] Applicant No : A004005 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 7 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:47:06.006Z] Applicanted added to database
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(2) - Primary Education (Tamil) 
+[2024-02-19T09:47:06.006Z] Course (20)- Art (Tamil) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(20)- Art (Tamil)
+[2024-02-19T09:47:06.006Z] Course (21) - Dance (Oriental) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(21) - Dance (Oriental)
+[2024-02-19T09:47:06.006Z] Course (22) - Dance ( Bharatha) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(22) - Dance ( Bharatha)
+[2024-02-19T09:47:06.006Z] Course (23) - Music (Oriental) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(23) - Music (Oriental)
+[2024-02-19T09:47:06.006Z] Course (24) - Music ( Carnatic) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(24) - Music ( Carnatic)
+[2024-02-19T09:47:06.006Z] Course (25) - Western Music Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] Applicant No : A004001 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 4 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:47:06.006Z] Applicanted added to database
+[2024-02-19T09:47:06.006Z] Applicant No : A004004 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 6 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:47:06.006Z] Applicanted added to database
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(25) - Western Music
+[2024-02-19T09:47:06.006Z] Course (26) - Drama and Theatre (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(26) - Drama and Theatre (Sinhala)
+[2024-02-19T09:47:06.006Z] Course (27) - Drama and Theatre (Tamil) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(27) - Drama and Theatre (Tamil)
+[2024-02-19T09:47:06.006Z] Course (28) - Health and Physical Education (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] Applicant No : A002004 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 22Applicant Sequence: 1 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:47:06.006Z] Applicanted added to database
+[2024-02-19T09:47:06.006Z] Applicant No : A002005 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 2 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:47:06.006Z] Applicanted added to database
+[2024-02-19T09:47:06.006Z] Applicant No : A004001 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 4 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:47:06.006Z] Applicanted added to database
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(28) - Health and Physical Education (Sinhala)
+[2024-02-19T09:47:06.006Z] Course (29)- Health and Physical Education (Tamil) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] Applicant No : A003001 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 3 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:47:06.006Z] Applicanted added to database
+[2024-02-19T09:47:06.006Z] Applicant No : A004003 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 5 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:47:06.006Z] Applicanted added to database
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(29)- Health and Physical Education (Tamil)
+[2024-02-19T09:47:06.006Z] Course (3) - Science (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(3) - Science (Sinhala)
+[2024-02-19T09:47:06.006Z] Course (30) - Health and Physical Education (English) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(30) - Health and Physical Education (English)
+[2024-02-19T09:47:06.006Z] Course (31) - Home Economics (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(31) - Home Economics (Sinhala)
+[2024-02-19T09:47:06.006Z] Course (32) - Home Economics (Tamil) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(32) - Home Economics (Tamil)
+[2024-02-19T09:47:06.006Z] Course (33) - Agriculture and Food Technology (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(33) - Agriculture and Food Technology (Sinhala)
+[2024-02-19T09:47:06.006Z] Course (34) - Agriculture and Food Technology (Tamil) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(34) - Agriculture and Food Technology (Tamil)
+[2024-02-19T09:47:06.006Z] Course (35) - Art and craft (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(35) - Art and craft (Sinhala)
+[2024-02-19T09:47:06.006Z] Course (36) - Art and craft (Tamil) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] Applicant No : A002004 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 22Applicant Sequence: 1 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:47:06.006Z] Applicanted added to database
+[2024-02-19T09:47:06.006Z] Applicant No : A002005 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 2 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T09:47:06.006Z] Applicanted added to database
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(36) - Art and craft (Tamil)
+[2024-02-19T09:47:06.006Z] Course (37) - Design and Construction Technology (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(37) - Design and Construction Technology (Sinhala)
+[2024-02-19T09:47:06.006Z] Course (38) - Design and Mechanical Technology (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(38) - Design and Mechanical Technology (Sinhala)
+[2024-02-19T09:47:06.006Z] Course (39) - Design and Electrical and Electronic Technology (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(39) - Design and Electrical and Electronic Technology (Sinhala)
+[2024-02-19T09:47:06.006Z] Course (4) - Science (Tamil) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(4) - Science (Tamil)
+[2024-02-19T09:47:06.006Z] Course (40) - Design and Construction Technology (Tamil) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(40) - Design and Construction Technology (Tamil)
+[2024-02-19T09:47:06.006Z] Course (41) - Design and Mechanical Technology (Tamil) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(41) - Design and Mechanical Technology (Tamil)
+[2024-02-19T09:47:06.006Z] Course (42) - Design and Electrical and Electronic Technology (Tamil) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(42) - Design and Electrical and Electronic Technology (Tamil)
+[2024-02-19T09:47:06.006Z] Course (43) -Information and Communication Technology (English)  Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(43) -Information and Communication Technology (English) 
+[2024-02-19T09:47:06.006Z] Course (44) - Second Language (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(44) - Second Language (Sinhala)
+[2024-02-19T09:47:06.006Z] Course (45) - Second Language (Tamil) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(45) - Second Language (Tamil)
+[2024-02-19T09:47:06.006Z] Course (46) - Special Education (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(46) - Special Education (Sinhala)
+[2024-02-19T09:47:06.006Z] Course (47) - Special Education (Tamil) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(47) - Special Education (Tamil)
+[2024-02-19T09:47:06.006Z] Course (48) - Business and Accounting Studies (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(48) - Business and Accounting Studies (Sinhala)
+[2024-02-19T09:47:06.006Z] Course (49) - Business and Accounting Studies (Tamil) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(49) - Business and Accounting Studies (Tamil)
+[2024-02-19T09:47:06.006Z] Course (5) - Science (English) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(5) - Science (English)
+[2024-02-19T09:47:06.006Z] Course (6) - Mathematics (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(6) - Mathematics (Sinhala)
+[2024-02-19T09:47:06.006Z] Course (7) - Mathematics (Tamil) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(7) - Mathematics (Tamil)
+[2024-02-19T09:47:06.006Z] Course (8) - Mathematics (English) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(8) - Mathematics (English)
+[2024-02-19T09:47:06.006Z] Course (9) - Social Science (Sinhala) Selected for Eligibility Check
+[2024-02-19T09:47:06.006Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T09:47:06.006Z] Try to Create Database Connection
+[2024-02-19T09:47:06.006Z] Create Database Connection Successful
+[2024-02-19T09:47:06.006Z] All Applicants loaed Sucessfully for(9) - Social Science (Sinhala)
+[2024-02-19T09:47:06.006Z] Prcoess Eligibility Method called sucessfully
+[2024-02-19T10:03:45.045Z] My process Eligibity Method called null
+[2024-02-19T10:03:45.045Z] Our EligibilityDao processEligibility Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Sequence added Sucessfully
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] Found 49 Courses
+[2024-02-19T10:03:45.045Z] Course (1) - Primary Education (Sinhala) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] Applicant No : A004004 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 6 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T10:03:45.045Z] Applicanted added to database
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(1) - Primary Education (Sinhala)
+[2024-02-19T10:03:45.045Z] Course (10) - Social Science (Tamil) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] Applicant No : A004005 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 7 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T10:03:45.045Z] Applicanted added to database
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(10) - Social Science (Tamil)
+[2024-02-19T10:03:45.045Z] Course (11) - Buddhism Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(11) - Buddhism
+[2024-02-19T10:03:45.045Z] Course (12) - Hinduism Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(12) - Hinduism
+[2024-02-19T10:03:45.045Z] Course (13) - Islam Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(13) - Islam
+[2024-02-19T10:03:45.045Z] Course (14) - Catholicism / Christianity (Sinhala) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] Applicant No : A002004 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 22Applicant Sequence: 1 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T10:03:45.045Z] Applicanted added to database
+[2024-02-19T10:03:45.045Z] Applicant No : A002005 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 2 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T10:03:45.045Z] Applicanted added to database
+[2024-02-19T10:03:45.045Z] Applicant No : A003001 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 3 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T10:03:45.045Z] Applicanted added to database
+[2024-02-19T10:03:45.045Z] Applicant No : A004001 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 4 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T10:03:45.045Z] Applicanted added to database
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(14) - Catholicism / Christianity (Sinhala)
+[2024-02-19T10:03:45.045Z] Course (15) - Catholicism / Christianity (Tamil) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(15) - Catholicism / Christianity (Tamil)
+[2024-02-19T10:03:45.045Z] Course (16) - First Language (Sinhala) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(16) - First Language (Sinhala)
+[2024-02-19T10:03:45.045Z] Course (17) - First Language (Tamil) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(17) - First Language (Tamil)
+[2024-02-19T10:03:45.045Z] Course (18) - English Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] Applicant No : A003001 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 3 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T10:03:45.045Z] Applicanted added to database
+[2024-02-19T10:03:45.045Z] Applicant No : A004003 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 5 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T10:03:45.045Z] Applicanted added to database
+[2024-02-19T10:03:45.045Z] Applicant No : A004004 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 6 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T10:03:45.045Z] Applicanted added to database
+[2024-02-19T10:03:45.045Z] Applicant No : A004005 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 7 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T10:03:45.045Z] Applicanted added to database
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(18) - English
+[2024-02-19T10:03:45.045Z] Course (19) - Art (Sinhala) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(19) - Art (Sinhala)
+[2024-02-19T10:03:45.045Z] Course (2) - Primary Education (Tamil)  Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] Applicant No : A004003 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 5 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T10:03:45.045Z] Applicanted added to database
+[2024-02-19T10:03:45.045Z] Applicant No : A004005 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 7 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T10:03:45.045Z] Applicanted added to database
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(2) - Primary Education (Tamil) 
+[2024-02-19T10:03:45.045Z] Course (20)- Art (Tamil) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(20)- Art (Tamil)
+[2024-02-19T10:03:45.045Z] Course (21) - Dance (Oriental) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(21) - Dance (Oriental)
+[2024-02-19T10:03:45.045Z] Course (22) - Dance ( Bharatha) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(22) - Dance ( Bharatha)
+[2024-02-19T10:03:45.045Z] Course (23) - Music (Oriental) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(23) - Music (Oriental)
+[2024-02-19T10:03:45.045Z] Course (24) - Music ( Carnatic) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(24) - Music ( Carnatic)
+[2024-02-19T10:03:45.045Z] Course (25) - Western Music Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] Applicant No : A004001 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 4 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T10:03:45.045Z] Applicanted added to database
+[2024-02-19T10:03:45.045Z] Applicant No : A004004 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 6 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T10:03:45.045Z] Applicanted added to database
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(25) - Western Music
+[2024-02-19T10:03:45.045Z] Course (26) - Drama and Theatre (Sinhala) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(26) - Drama and Theatre (Sinhala)
+[2024-02-19T10:03:45.045Z] Course (27) - Drama and Theatre (Tamil) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(27) - Drama and Theatre (Tamil)
+[2024-02-19T10:03:45.045Z] Course (28) - Health and Physical Education (Sinhala) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] Applicant No : A002004 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 22Applicant Sequence: 1 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T10:03:45.045Z] Applicanted added to database
+[2024-02-19T10:03:45.045Z] Applicant No : A002005 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 2 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T10:03:45.045Z] Applicanted added to database
+[2024-02-19T10:03:45.045Z] Applicant No : A004001 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 4 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T10:03:45.045Z] Applicanted added to database
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(28) - Health and Physical Education (Sinhala)
+[2024-02-19T10:03:45.045Z] Course (29)- Health and Physical Education (Tamil) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] Applicant No : A003001 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 3 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T10:03:45.045Z] Applicanted added to database
+[2024-02-19T10:03:45.045Z] Applicant No : A004003 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 5 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T10:03:45.045Z] Applicanted added to database
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(29)- Health and Physical Education (Tamil)
+[2024-02-19T10:03:45.045Z] Course (3) - Science (Sinhala) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(3) - Science (Sinhala)
+[2024-02-19T10:03:45.045Z] Course (30) - Health and Physical Education (English) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(30) - Health and Physical Education (English)
+[2024-02-19T10:03:45.045Z] Course (31) - Home Economics (Sinhala) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(31) - Home Economics (Sinhala)
+[2024-02-19T10:03:45.045Z] Course (32) - Home Economics (Tamil) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(32) - Home Economics (Tamil)
+[2024-02-19T10:03:45.045Z] Course (33) - Agriculture and Food Technology (Sinhala) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(33) - Agriculture and Food Technology (Sinhala)
+[2024-02-19T10:03:45.045Z] Course (34) - Agriculture and Food Technology (Tamil) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(34) - Agriculture and Food Technology (Tamil)
+[2024-02-19T10:03:45.045Z] Course (35) - Art and craft (Sinhala) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(35) - Art and craft (Sinhala)
+[2024-02-19T10:03:45.045Z] Course (36) - Art and craft (Tamil) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] Applicant No : A002004 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 22Applicant Sequence: 1 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T10:03:45.045Z] Applicanted added to database
+[2024-02-19T10:03:45.045Z] Applicant No : A002005 Applicant Name: AVANTHIKA MAHENDIRAKUMAR Applicant NIC No: 2Applicant Sequence: 2 Course Pref One course_pref_three Course Pref Twocourse_pref_two Course Pref Three null Z score: -0.0343
+[2024-02-19T10:03:45.045Z] Applicanted added to database
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(36) - Art and craft (Tamil)
+[2024-02-19T10:03:45.045Z] Course (37) - Design and Construction Technology (Sinhala) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(37) - Design and Construction Technology (Sinhala)
+[2024-02-19T10:03:45.045Z] Course (38) - Design and Mechanical Technology (Sinhala) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(38) - Design and Mechanical Technology (Sinhala)
+[2024-02-19T10:03:45.045Z] Course (39) - Design and Electrical and Electronic Technology (Sinhala) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(39) - Design and Electrical and Electronic Technology (Sinhala)
+[2024-02-19T10:03:45.045Z] Course (4) - Science (Tamil) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(4) - Science (Tamil)
+[2024-02-19T10:03:45.045Z] Course (40) - Design and Construction Technology (Tamil) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(40) - Design and Construction Technology (Tamil)
+[2024-02-19T10:03:45.045Z] Course (41) - Design and Mechanical Technology (Tamil) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(41) - Design and Mechanical Technology (Tamil)
+[2024-02-19T10:03:45.045Z] Course (42) - Design and Electrical and Electronic Technology (Tamil) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(42) - Design and Electrical and Electronic Technology (Tamil)
+[2024-02-19T10:03:45.045Z] Course (43) -Information and Communication Technology (English)  Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(43) -Information and Communication Technology (English) 
+[2024-02-19T10:03:45.045Z] Course (44) - Second Language (Sinhala) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(44) - Second Language (Sinhala)
+[2024-02-19T10:03:45.045Z] Course (45) - Second Language (Tamil) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(45) - Second Language (Tamil)
+[2024-02-19T10:03:45.045Z] Course (46) - Special Education (Sinhala) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(46) - Special Education (Sinhala)
+[2024-02-19T10:03:45.045Z] Course (47) - Special Education (Tamil) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(47) - Special Education (Tamil)
+[2024-02-19T10:03:45.045Z] Course (48) - Business and Accounting Studies (Sinhala) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(48) - Business and Accounting Studies (Sinhala)
+[2024-02-19T10:03:45.045Z] Course (49) - Business and Accounting Studies (Tamil) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(49) - Business and Accounting Studies (Tamil)
+[2024-02-19T10:03:45.045Z] Course (5) - Science (English) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(5) - Science (English)
+[2024-02-19T10:03:45.045Z] Course (6) - Mathematics (Sinhala) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(6) - Mathematics (Sinhala)
+[2024-02-19T10:03:45.045Z] Course (7) - Mathematics (Tamil) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(7) - Mathematics (Tamil)
+[2024-02-19T10:03:45.045Z] Course (8) - Mathematics (English) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(8) - Mathematics (English)
+[2024-02-19T10:03:45.045Z] Course (9) - Social Science (Sinhala) Selected for Eligibility Check
+[2024-02-19T10:03:45.045Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T10:03:45.045Z] Try to Create Database Connection
+[2024-02-19T10:03:45.045Z] Create Database Connection Successful
+[2024-02-19T10:03:45.045Z] All Applicants loaed Sucessfully for(9) - Social Science (Sinhala)
+[2024-02-19T10:03:45.045Z] Prcoess Eligibility Method called sucessfully
+[2024-02-19T12:10:05.005Z] My process Eligibity Method called null
+[2024-02-19T12:10:05.005Z] Our EligibilityDao processEligibility Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Sequence added Sucessfully
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] Found 49 Courses
+[2024-02-19T12:10:05.005Z] Course (1) - Primary Education (Sinhala) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(1) - Primary Education (Sinhala)
+[2024-02-19T12:10:05.005Z] Course (10) - Social Science (Tamil) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(10) - Social Science (Tamil)
+[2024-02-19T12:10:05.005Z] Course (11) - Buddhism Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(11) - Buddhism
+[2024-02-19T12:10:05.005Z] Course (12) - Hinduism Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(12) - Hinduism
+[2024-02-19T12:10:05.005Z] Course (13) - Islam Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(13) - Islam
+[2024-02-19T12:10:05.005Z] Course (14) - Catholicism / Christianity (Sinhala) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(14) - Catholicism / Christianity (Sinhala)
+[2024-02-19T12:10:05.005Z] Course (15) - Catholicism / Christianity (Tamil) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(15) - Catholicism / Christianity (Tamil)
+[2024-02-19T12:10:05.005Z] Course (16) - First Language (Sinhala) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(16) - First Language (Sinhala)
+[2024-02-19T12:10:05.005Z] Course (17) - First Language (Tamil) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(17) - First Language (Tamil)
+[2024-02-19T12:10:05.005Z] Course (18) - English Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(18) - English
+[2024-02-19T12:10:05.005Z] Course (19) - Art (Sinhala) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(19) - Art (Sinhala)
+[2024-02-19T12:10:05.005Z] Course (2) - Primary Education (Tamil)  Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(2) - Primary Education (Tamil) 
+[2024-02-19T12:10:05.005Z] Course (20)- Art (Tamil) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(20)- Art (Tamil)
+[2024-02-19T12:10:05.005Z] Course (21) - Dance (Oriental) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(21) - Dance (Oriental)
+[2024-02-19T12:10:05.005Z] Course (22) - Dance ( Bharatha) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(22) - Dance ( Bharatha)
+[2024-02-19T12:10:05.005Z] Course (23) - Music (Oriental) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(23) - Music (Oriental)
+[2024-02-19T12:10:05.005Z] Course (24) - Music ( Carnatic) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(24) - Music ( Carnatic)
+[2024-02-19T12:10:05.005Z] Course (25) - Western Music Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(25) - Western Music
+[2024-02-19T12:10:05.005Z] Course (26) - Drama and Theatre (Sinhala) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(26) - Drama and Theatre (Sinhala)
+[2024-02-19T12:10:05.005Z] Course (27) - Drama and Theatre (Tamil) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(27) - Drama and Theatre (Tamil)
+[2024-02-19T12:10:05.005Z] Course (28) - Health and Physical Education (Sinhala) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(28) - Health and Physical Education (Sinhala)
+[2024-02-19T12:10:05.005Z] Course (29)- Health and Physical Education (Tamil) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(29)- Health and Physical Education (Tamil)
+[2024-02-19T12:10:05.005Z] Course (3) - Science (Sinhala) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(3) - Science (Sinhala)
+[2024-02-19T12:10:05.005Z] Course (30) - Health and Physical Education (English) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(30) - Health and Physical Education (English)
+[2024-02-19T12:10:05.005Z] Course (31) - Home Economics (Sinhala) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(31) - Home Economics (Sinhala)
+[2024-02-19T12:10:05.005Z] Course (32) - Home Economics (Tamil) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(32) - Home Economics (Tamil)
+[2024-02-19T12:10:05.005Z] Course (33) - Agriculture and Food Technology (Sinhala) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(33) - Agriculture and Food Technology (Sinhala)
+[2024-02-19T12:10:05.005Z] Course (34) - Agriculture and Food Technology (Tamil) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(34) - Agriculture and Food Technology (Tamil)
+[2024-02-19T12:10:05.005Z] Course (35) - Art and craft (Sinhala) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(35) - Art and craft (Sinhala)
+[2024-02-19T12:10:05.005Z] Course (36) - Art and craft (Tamil) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(36) - Art and craft (Tamil)
+[2024-02-19T12:10:05.005Z] Course (37) - Design and Construction Technology (Sinhala) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(37) - Design and Construction Technology (Sinhala)
+[2024-02-19T12:10:05.005Z] Course (38) - Design and Mechanical Technology (Sinhala) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(38) - Design and Mechanical Technology (Sinhala)
+[2024-02-19T12:10:05.005Z] Course (39) - Design and Electrical and Electronic Technology (Sinhala) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(39) - Design and Electrical and Electronic Technology (Sinhala)
+[2024-02-19T12:10:05.005Z] Course (4) - Science (Tamil) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(4) - Science (Tamil)
+[2024-02-19T12:10:05.005Z] Course (40) - Design and Construction Technology (Tamil) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(40) - Design and Construction Technology (Tamil)
+[2024-02-19T12:10:05.005Z] Course (41) - Design and Mechanical Technology (Tamil) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(41) - Design and Mechanical Technology (Tamil)
+[2024-02-19T12:10:05.005Z] Course (42) - Design and Electrical and Electronic Technology (Tamil) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(42) - Design and Electrical and Electronic Technology (Tamil)
+[2024-02-19T12:10:05.005Z] Course (43) -Information and Communication Technology (English)  Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(43) -Information and Communication Technology (English) 
+[2024-02-19T12:10:05.005Z] Course (44) - Second Language (Sinhala) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(44) - Second Language (Sinhala)
+[2024-02-19T12:10:05.005Z] Course (45) - Second Language (Tamil) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(45) - Second Language (Tamil)
+[2024-02-19T12:10:05.005Z] Course (46) - Special Education (Sinhala) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(46) - Special Education (Sinhala)
+[2024-02-19T12:10:05.005Z] Course (47) - Special Education (Tamil) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(47) - Special Education (Tamil)
+[2024-02-19T12:10:05.005Z] Course (48) - Business and Accounting Studies (Sinhala) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(48) - Business and Accounting Studies (Sinhala)
+[2024-02-19T12:10:05.005Z] Course (49) - Business and Accounting Studies (Tamil) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(49) - Business and Accounting Studies (Tamil)
+[2024-02-19T12:10:05.005Z] Course (5) - Science (English) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(5) - Science (English)
+[2024-02-19T12:10:05.005Z] Course (6) - Mathematics (Sinhala) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(6) - Mathematics (Sinhala)
+[2024-02-19T12:10:05.005Z] Course (7) - Mathematics (Tamil) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(7) - Mathematics (Tamil)
+[2024-02-19T12:10:05.005Z] Course (8) - Mathematics (English) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(8) - Mathematics (English)
+[2024-02-19T12:10:05.005Z] Course (9) - Social Science (Sinhala) Selected for Eligibility Check
+[2024-02-19T12:10:05.005Z] Our getAllApplicantsByCourseNo Method Called...
+[2024-02-19T12:10:05.005Z] Try to Create Database Connection
+[2024-02-19T12:10:05.005Z] Create Database Connection Successful
+[2024-02-19T12:10:05.005Z] All Applicants loaed Sucessfully for(9) - Social Science (Sinhala)
+[2024-02-19T12:10:05.005Z] Prcoess Eligibility Method called sucessfully

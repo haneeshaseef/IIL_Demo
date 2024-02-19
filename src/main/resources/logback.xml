@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+
+	<property name="USER_HOME" value="online_td_imi_logs" />
+
+	<appender name="CONSOLE"
+		class="ch.qos.logback.core.ConsoleAppender">
+		<encoder>
+			<pattern>[%d{yyyy-MM-dd'T'HH:mm:ss}] %m%n</pattern>
+		</encoder>
+	</appender>
+
+	<appender name="FILE"
+		class="ch.qos.logback.core.rolling.RollingFileAppender">
+		<!-- "ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy"> -->
+		<File>${USER_HOME}/logs/ncoe.log</File>
+
+		<rollingPolicy
+			class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+			<fileNamePattern>${USER_HOME}/logs/archive/ncoe.%d{yyyy-MM-dd}.zip
+			</fileNamePattern>
+			<maxHistory>180</maxHistory>
+		</rollingPolicy>
+		<encoder>
+			<pattern>[%d{yyyy-MM-dd'T'HH:mm:ss.sss'Z'}] %m%n</pattern>
+		</encoder>
+	</appender>
+
+
+	<appender name="ERRORFILE"
+		class="ch.qos.logback.core.rolling.RollingFileAppender">
+		<!-- "ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy"> -->
+		<File>${USER_HOME}/logs/ncoe_errors.log</File>
+
+		<rollingPolicy
+			class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+			<fileNamePattern>
+				${USER_HOME}/logs/archive/ncoe_errors.%d{yyyy-MM-dd}.zip
+			</fileNamePattern>
+			<maxHistory>180</maxHistory>
+		</rollingPolicy>
+		<encoder>
+			<pattern>[%d{yyyy-MM-dd'T'HH:mm:ss.sss'Z'}] %m%n</pattern>
+		</encoder>
+	</appender>
+
+
+	<logger name="org.springframework" level="ERROR" />
+	<logger name="logging.level.org.hibernate" level="ERROR" />
+
+	<root level="DEBUG">
+		<appender-ref ref="CONSOLE" />
+	</root>
+
+
+	<logger name="ncoeLog" level="DEBUG" additivity="false">
+		<appender-ref ref="FILE" />
+		<appender-ref ref="CONSOLE" />
+	</logger>
+
+	<logger name="ncoeErrorLog" level="ERROR" additivity="false">
+		<appender-ref ref="ERRORFILE" />
+		<appender-ref ref="CONSOLE" />
+	</logger>
+
+
+</configuration>
